@@ -1,17 +1,17 @@
-# MCA Semester 2 - ACN Lab Programs
+# MCA Semester 2 - NSA Lab Programs
 
 ## Overview
 
-This repository contains the laboratory programs for the **Advanced Computer Networks (ACN) Lab** course in the **Master of Computer Applications (MCA)** program, **Semester 2**, offered by **Kerala Technical University (KTU)**.
+This repository contains the laboratory programs for the **Networking and System Administration (NSA) Lab** course in the **Master of Computer Applications (MCA)** program, **Semester 2**, offered by **Kerala Technical University (KTU)**.
 
-The ACN Lab focuses on practical implementation of shell scripting concepts, file handling, system administration tasks, and basic programming constructs using Bash shell. These programs help students understand Unix/Linux command-line operations, scripting logic, and system-level programming.
+The NSA Lab focuses on practical implementation of shell scripting concepts, file handling, system administration tasks, and basic programming constructs using Bash shell. These programs help students understand Unix/Linux command-line operations, scripting logic, and system-level programming.
 
 ## Course Details
 
 - **University**: Kerala Technical University (KTU)
 - **Program**: Master of Computer Applications (MCA)
 - **Semester**: 2
-- **Course**: Advanced Computer Networks Lab (ACN Lab)
+- **Course**: Networking and System Administration Lab (NSA Lab)
 - **Objective**: To provide hands-on experience in shell scripting and system programming
 
 ## Programs Overview
@@ -75,5 +75,5 @@ By completing these lab programs, students will:
 
 **Kerala Technical University**  
 **MCA Program - Semester 2**  
-**Advanced Computer Networks Lab**</content>
+**Networking and System Administration Lab**</content>
 <parameter name="filePath">c:\Users\cacet\OneDrive\Desktop\MCA-S2\ACN LAB\README.md
